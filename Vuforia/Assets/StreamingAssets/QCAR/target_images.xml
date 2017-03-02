@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="qa_small" size="1.000000 1.000000" />
+    <ImageTarget name="LINE-Friend-QRCODE" size="1.000000 1.000000" />
+    <ImageTarget name="Revisedqr" size="1.000000 1.000000" />
+    <ImageTarget name="jingdaily-qr-code" size="1.000000 1.000000" />
+    <ImageTarget name="qrcode" size="1.000000 1.000000" />
+    <ImageTarget name="hiro-a" size="1.000000 1.000000" />
+    <ImageTarget name="hiro" size="50.000000 50.000000" />
+    <ImageTarget name="chips_scaled" size="50.000000 34.960938" />
+  </Tracking>
+</QCARConfig>
